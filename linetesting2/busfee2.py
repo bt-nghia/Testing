@@ -36,6 +36,3 @@ def busTicketDiscount(ticket_type, between5_70):
             pass
 
     return ticket_type, dis
-
-
-busTicketDiscount(4, True)
